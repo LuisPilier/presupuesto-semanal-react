@@ -1,6 +1,26 @@
-# Getting Started with Create React App
+# Planificador de Gastos Semanal
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Descripción del Proyecto
+
+Muchas personas enfrentan dificultades para llevar un control efectivo de sus gastos y mantenerse dentro de un presupuesto semanal. Este proyecto tiene como objetivo desarrollar una aplicación que ayude a los usuarios a establecer y gestionar un presupuesto semanal para diferentes categorías de gastos, proporcionando recordatorios diarios y resúmenes semanales.
+
+## Características Principales
+
+1. **Registro de Categorías y Presupuesto:**
+   - Los usuarios pueden definir diversas categorías de gastos (alimentación, transporte, entretenimiento, etc.).
+   - Para cada categoría, se asigna un presupuesto semanal.
+
+2. **Recordatorios Diarios:**
+   - La aplicación enviará recordatorios diarios a los usuarios para que ingresen sus gastos.
+   - Los recordatorios pueden configurarse según la preferencia del usuario.
+
+3. **Resumen Semanal:**
+   - Al final de la semana, la aplicación mostrará un resumen que incluye el presupuesto restante y una comparación con el planificado.
+   - Gráficos visuales pueden ser utilizados para una representación más clara de la información.
+  
+# Video explicativo
+
+https://youtu.be/qQzvVIcdLWc
 
 ## Available Scripts
 
@@ -31,40 +51,3 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
